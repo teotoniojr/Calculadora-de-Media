@@ -24,6 +24,10 @@ body {
   margin-top: 5px;
 }
 
+p {
+  margin-block: 3em;
+}
+
 input {
   margin-left: 90px;
   margin-top: 20px;
